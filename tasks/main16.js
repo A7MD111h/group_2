@@ -1,7 +1,7 @@
 // idrees
 
 /*
-function isEven(){
+function isOdd(){
 
     let num = parseFloat(prompt("Please enter your number"));
 
@@ -11,5 +11,5 @@ function isEven(){
         console.log("true");
     }
 }
-isEven();
+isOdd();
 */
